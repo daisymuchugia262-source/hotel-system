@@ -1,0 +1,95 @@
+{
+  "next_id": 11,
+  "items": [
+    {
+      "id": 1,
+      "name": "Chicken Biryani",
+      "category": "food",
+      "price": "450.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:43.931655"
+    },
+    {
+      "id": 2,
+      "name": "Beef Burger",
+      "category": "food",
+      "price": "350.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:43.934762"
+    },
+    {
+      "id": 3,
+      "name": "Pizza (Large)",
+      "category": "food",
+      "price": "800.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:43.951623"
+    },
+    {
+      "id": 4,
+      "name": "Fried Chicken",
+      "category": "food",
+      "price": "600.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:43.966037"
+    },
+    {
+      "id": 5,
+      "name": "Fish & Chips",
+      "category": "food",
+      "price": "550.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:43.985189"
+    },
+    {
+      "id": 6,
+      "name": "Soda (500ml)",
+      "category": "drink",
+      "price": "100.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:44.000949"
+    },
+    {
+      "id": 7,
+      "name": "Juice (300ml)",
+      "category": "drink",
+      "price": "150.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:44.019533"
+    },
+    {
+      "id": 8,
+      "name": "Ice Cream",
+      "category": "dessert",
+      "price": "200.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:44.036537"
+    },
+    {
+      "id": 9,
+      "name": "Coffee",
+      "category": "drink",
+      "price": "120.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:44.056729"
+    },
+    {
+      "id": 10,
+      "name": "Water (1L)",
+      "category": "drink",
+      "price": "80.00",
+      "is_available": true,
+      "description": "",
+      "created_at": "2026-11-23T10:08:44.076639"
+    }
+  ]
+}

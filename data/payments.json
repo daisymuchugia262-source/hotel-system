@@ -1,0 +1,23 @@
+{
+  "next_id": 3,
+  "items": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "amount": "500",
+      "method": "cash",
+      "status": "completed",
+      "reference": "",
+      "paid_at": "2026-11-25T08:32:45.915509"
+    },
+    {
+      "id": 2,
+      "order_id": 2,
+      "amount": "1500",
+      "method": "cash",
+      "status": "completed",
+      "reference": "",
+      "paid_at": "2026-11-25T08:37:08.416724"
+    }
+  ]
+}
